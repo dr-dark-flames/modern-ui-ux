@@ -28,10 +28,6 @@
 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Vite
@@ -40,54 +36,19 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+✨ **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
-👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
+✨ **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
 
-👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+✨ **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
 
-👉 **Latest UI Trends**: Incorporates modern design elements such as bento grids.
+✨ **Latest UI Trends**: Incorporates modern design elements such as bento grids.
 
-👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+✨ **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
 
-👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
+✨ **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
 and many more, including code architecture and reusability
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
-cd brainwave
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Running the Project**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
@@ -834,33 +795,5 @@ export default Roadmap;
 ```
 
 </details>
-
-## <a name="links">🔗 Links</a>
-
-- [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
-- [Design](https://drive.google.com/file/d/15WJMOchujvaQ7Kg9e0nGeGR7G7JOeX1K/view?usp=sharing)
-- [Absolute Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
-- [Live Website](https://jsm-brainwave.com/)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
 
 #
